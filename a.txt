@@ -1,7 +1,4 @@
 this is a txt files
-<<<<<<< HEAD
-
 add 1111
-=======
 add 22222
->>>>>>> dev
+add 33333
